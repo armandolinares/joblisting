@@ -1,4 +1,4 @@
-package com.armandolg.joblisting;
+package com.armandolg.joblisting.repository;
 
 import com.armandolg.joblisting.model.Post;
 import org.springframework.data.mongodb.repository.MongoRepository;
